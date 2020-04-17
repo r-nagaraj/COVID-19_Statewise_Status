@@ -10,4 +10,4 @@ from tabulate import tabulate
 import matplotlib.pyplot as plt 
 
 
-Note:  The report was Generated on April 17, 2020.
+Note:  The report was Generated on April 17, 2020.  Please download the file and run manually so that the latest data will fetch and generate the report with lastest data. 
