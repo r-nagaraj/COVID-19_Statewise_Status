@@ -8,3 +8,6 @@ import requests
 from bs4 import BeautifulSoup 
 from tabulate import tabulate 
 import matplotlib.pyplot as plt 
+
+
+Note:  The report was Generated on April 17, 2020.
